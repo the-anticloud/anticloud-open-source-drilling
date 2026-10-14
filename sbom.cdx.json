@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:7609190b-0928-5701-85a0-d274856fd0c7",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T16:57:05Z",
+  "component": {
+   "type": "application",
+   "name": "OPEN_SOURCE_DRILLING",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/OPEN_SOURCE_DRILLING@83b357604d34",
+   "purl": "pkg:generic/anticloud/OPEN_SOURCE_DRILLING@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
